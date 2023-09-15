@@ -11,6 +11,7 @@ const HomePage = () => {
         <NavbarLayout />
         <MainLayout>
           <ToDoListLayout />
+          <div>Ini Kalendar</div>
         </MainLayout>
       </div>
     </div>
